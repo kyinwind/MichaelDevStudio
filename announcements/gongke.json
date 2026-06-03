@@ -7,16 +7,6 @@
     "level": "info",
     "linkTitle": "查看App介绍视频",
     "linkURL": "https://www.bilibili.com/video/BV1nN9fBYEcH/",
-    "isPinned": true
-  },
-  {
-    "id": "welcome-help-center2",
-    "title": "欢迎使用帮助中心",
-    "message": "这里会展示产品公告、重要提醒和与用户沟通相关的内容。",
-    "publishedAt": "2026-06-03",
-    "level": "info",
-    "linkTitle": "查看App介绍视频",
-    "linkURL": "https://www.bilibili.com/video/BV1nN9fBYEcH/",
-    "isPinned": true
+    "isPinned": false
   }
 ]
