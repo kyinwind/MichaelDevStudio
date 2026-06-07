@@ -1,15 +1,15 @@
 [
   {
-    "id": "1.8.2",
-    "videoTitle": "v1.8.2 walkthrough",
+    "id": "v1.1.9",
+    "videoTitle": "v1.1.9 更新说明",
     "videoLinks": [
       {
         "title": "bilibili",
-        "url": "https://www.bilibili.com/video/xxx"
+        "url": "https://www.bilibili.com/"
       },
       {
-        "title": "Release article",
-        "url": "https://example.com/releases/1.8.2"
+        "title": "youtube",
+        "url": "https://youtube/"
       }
     ]
   }
