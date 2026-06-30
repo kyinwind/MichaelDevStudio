@@ -8,5 +8,13 @@
     "linkTitle": "查看App介绍视频",
     "linkURL": "https://www.bilibili.com/video/BV1zjLM6bEMw/",
     "isPinned": false
+  },
+  {
+    "id": "windows-migration",
+    "title": "RightClickMate迁移已完成",
+    "message": "RightClickMate迁移至Windows中已完成",
+    "publishedAt": "2026-06-29",
+    "level": "info",
+    "isPinned": false
   }
 ]

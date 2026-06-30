@@ -1,0 +1,9 @@
+{
+  "faqItems": [
+    {
+      "id": "contact",
+      "question": "How do I contact support?",
+      "answer": "Open the Help Center and tap the support link."
+    }
+  ]
+}
