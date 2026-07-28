@@ -10,7 +10,21 @@
       {
         "title": "youtube",
         "url": "https://www.youtube.com/watch?v=H36r3Jn7z38"
-      }
+      },
+    ]
+  },
+  {
+    "id": "1.0.3",
+    "videoTitle": "v1.0.3 walkthrough",
+    "videoLinks": [
+      {
+        "title": "bilibili",
+        "url": "https://www.bilibili.com/video/BV1uQ3v6yEL4/"
+      },
+      {
+        "title": "youtube",
+        "url": "https://youtu.be/xAW_guelbiU"
+      },
     ]
   }
   
