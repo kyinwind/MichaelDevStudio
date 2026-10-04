@@ -46,7 +46,16 @@
         "url": "https://bilibili.com/video/BV1RwYt6nEjz/"
       },
     ]
+  },
+  {
+    "id": "1.2.0",
+    "videoTitle": "v1.2.0 walkthrough",
+    "videoLinks": [
+      {
+        "title": "bilibili",
+        "url": "https://www.bilibili.com/video/BV1bmHJ6tEvj/"
+      },
+    ]
   }
-  
   
 ]
